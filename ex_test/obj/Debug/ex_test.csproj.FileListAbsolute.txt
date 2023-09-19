@@ -1,0 +1,12 @@
+C:\test\ex_test\ex_test\obj\Debug\ex_test.csproj.AssemblyReference.cache
+C:\test\ex_test\ex_test\obj\Debug\ex_test.csproj.CoreCompileInputs.cache
+C:\test\ex_test\ex_test\bin\Debug\ex_test.exe
+C:\test\ex_test\ex_test\bin\Debug\ex_test.pdb
+C:\test\ex_test\ex_test\bin\Debug\HtmlAgilityPack.dll
+C:\test\ex_test\ex_test\bin\Debug\HtmlAgilityPack.pdb
+C:\test\ex_test\ex_test\bin\Debug\HtmlAgilityPack.xml
+C:\test\ex_test\ex_test\obj\Debug\ex_test.csproj.CopyComplete
+C:\test\ex_test\ex_test\obj\Debug\ex_test.exe
+C:\test\ex_test\ex_test\obj\Debug\ex_test.pdb
+C:\test\ex_test\ex_test\bin\Debug\ex_test.exe.config
+C:\test\ex_test\ex_test\obj\Debug\ex_test.csproj.SuggestedBindingRedirects.cache
